@@ -32,4 +32,4 @@ const ME={
 </div>  
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rezazx&hide_border=true&layout=compact&vv=10" align="center" /></div>   
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rezazx&hide_border=true&layout=compact&vv=12" align="center" /></div>   
